@@ -87,8 +87,6 @@ streamlit run sales_forecast_app.py
 7. Run the forecast and analyze results.
 8. Download results as CSV.
 
-## 👥 Authors
-
-* **Rohit Gupta**  
+## 👥 Author
+ 
 * **Sagar Kumar**  
-* **Sheetal Patil**
